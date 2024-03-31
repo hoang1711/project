@@ -1,0 +1,195 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: aliceblue;
+}
+.aa{
+    display: flex;
+    background-color: #01adef;
+    height: 70px;
+    margin-top: 10px;
+    width: 100%;
+}
+.aa2 ul{
+    display: flex;
+   
+}
+.aa ul li{
+    margin: 30px;
+    list-style: none;
+}
+.aa1{
+    margin-top: 20px;
+    color: white;
+    margin-left: 20px;
+    
+}
+.aa2 a{
+    text-decoration: none;
+    color: white;
+}
+.aa2 li a:hover{
+    color: red;
+}
+.aa2{
+    margin-top: -10px;
+}
+.aa3{
+    background-color: #6699CC;
+    width: 19.5%;
+}
+.bb tr :hover{
+    background-color: bisque;
+}
+.bb a{
+    text-decoration: none;
+    color: black;
+}
+.bb a:hover{
+    color: red; 
+}
+.bb tr{
+    border-bottom: 1px solid#CCCCCC;
+}
+table{
+    background-color: white;
+}
+.bb1{
+    margin-top: 10px;
+    width :45.7%;
+    color: black;
+    background-color: white;
+
+}
+.bb1 a:hover{
+    color: red;
+}
+.bb1 a{
+    text-decoration:none ;
+    color: black;
+}
+.section{
+    position: relative;
+    display: flex;
+}
+.bb4{
+    width: 45.7%;
+    margin-top: 10px;
+    background-color: white;
+}
+.bb7{
+     display: flex;
+     border-bottom: 1px solid #CCCCCC;
+}
+.bb8{
+    margin-top: 12px;
+}
+.bb97{
+    display: flex;
+    border-bottom: 1px solid #CCCCCC;
+}
+.bb10{
+   margin-top: 12px;
+}
+.bb11{
+    display: flex;
+    border-bottom: 1px solid #CCCCCC;
+}
+.bb12{
+   margin-top: 12px;
+}
+.bb5{
+    background-color: #FF6600;
+    height: 50px;
+    text-align: center;
+}
+aside{
+    margin-left: -220px;
+    width: 70%;
+    background-color:white;
+    margin-top: 30px;
+}
+table p{
+    color: red;
+    margin-left: 20px;
+}
+.cc{
+    margin-top: 10px;
+    margin-left: 10px;
+    border-bottom: 1px solid black;
+}
+.cc1 table{
+     margin-top: 25px;
+     margin-left: 20px;
+}
+.cc1 td{
+    padding: 5px;
+    padding-left: 10px;
+}
+.cc1 {
+    text-align: center;
+}
+.cc1 a{
+    text-decoration: none;
+    color: black;
+}
+.dd{
+    width: 100%;
+    background-color: black;
+    height: 170px;
+    color: white;
+}
+.dd1 li{
+    display: inline-block;
+    margin: 14px;
+    color: white;
+}
+.dd2{
+    text-align: center;
+}
+.row{
+    margin-bottom: 10px;
+    display: flex;
+}
+.col-sm-4{
+    display: flex;
+}
+.col-sm-4 p{
+    margin-left: 15px;
+    margin-top: 20px ;
+    font-size: 20px;
+    color:#01adef ;
+    font-style: italic;
+}
+
+
+
+.nav-header{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top:50px;
+    left:50px;
+    
+}
+.logo{
+    padding:10px 10px;
+    margin-top: -30px;
+    margin-left: 40px;
+}
+.col-sm-4 image{
+    margin-top: 70px;
+}
+.input-group input{
+   position: relative;
+   top: -70px;
+}
+.input-group button{
+    position: relative;
+    top: -70px;
+    margin-right: 20px;
+}
+
